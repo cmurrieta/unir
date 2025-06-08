@@ -1,4 +1,4 @@
-show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in
+show_id,type,title,director
 s1,Movie,Dick Johnson Is Dead,Kirsten Johnson
 s2,TV Show,Blood & Water,
 s3,TV Show,Ganglands,
